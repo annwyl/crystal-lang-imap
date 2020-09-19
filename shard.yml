@@ -1,0 +1,9 @@
+name: crystal-lang-imap
+version: 0.1.0
+
+authors:
+  - <kr3wzz@t-online.de>
+
+crystal: 0.35.1
+
+license: MIT
