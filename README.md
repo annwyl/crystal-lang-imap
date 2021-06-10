@@ -3,8 +3,8 @@
 Small imap library written after the RFC 3501 standard for personal use.
 Only working over ssl, couple commands missing, only minor error handling, no logging, fetch returns unformatted response...
 
-Pretty much made for personal use so its very work in progress. 
-No tests written so far.
+Pretty much made for personal use so its very work in progress, but it's getting worked on.
+Couple of tests written.
 
 ## Installation
 
